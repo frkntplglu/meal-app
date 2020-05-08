@@ -1,0 +1,21 @@
+.header{
+  background: #23180d;
+  height: 90px;
+}
+
+.container{
+  max-width:100%;
+  width:1170px;
+  margin:0 auto;
+  padding: 0 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+}
+
+.author{
+  color: #fff;
+  font-family: Arial;
+  font-size: 24px;
+}

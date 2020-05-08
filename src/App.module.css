@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body{
+  background: #2d2013;
+  font-family: Arial;
+  color: #fff;
+}
+
+
+.container{
+  max-width: 100%;
+  width:1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}

@@ -1,0 +1,60 @@
+.backhome{
+  color: #fff;
+  display: block;
+  width:100%;
+  margin-bottom: 50px;
+}
+
+.mealContainer{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+.mealContainer h1{
+  width:100%;
+  margin-bottom: 50px;
+}
+.mealPhoto{
+  width:40%;
+}
+.mealPhoto img{
+  width:100%;
+}
+.mealInfo{
+  width:calc(60% - 30px);
+  margin-left: 30px;
+  line-height: 24px;
+}
+
+.mealInfo ul{
+  display: flex;
+  margin-bottom: 25px;
+}
+.mealInfo ul li{
+  margin-right: 25px;
+}
+.mealInfo ul li b{
+  color: #FBA643;
+}
+.mealInfo .ingredients{
+  margin-bottom: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mealInfo .ingredients span{
+  display: block;
+  width:33.3333%;
+  margin-bottom: 15px;
+}
+
+.mealInfo a{
+  display: block;
+  color: #fff;
+  background: #FBA643;
+  padding:10px 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-top: 25px;
+}
